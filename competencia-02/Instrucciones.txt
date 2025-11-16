@@ -1,0 +1,7 @@
+Para la entrega de la competencia 2 corrí los códigos en este orden:
+1- Linea de Muerte 10
+2- Linea de Muerte 50
+3- Workflow jueves
+4- Workflor APO
+y por último, ensamblé las predicciones de estos cuatro modelos, según el puntaje que tuve en kaggle al subir la predicción del período 202106 (si bien no es el mismo período, los puntajes son tan similares que se asemeja a un promedio simple):
+5- Ensamble
