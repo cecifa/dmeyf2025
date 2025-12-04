@@ -1,4 +1,0 @@
-El orden para gestionar los archivos es:
-1- Correr ventanas (6 ventanas por modelo, 18 ventanas en total). Para el modelo IPC, usar el archivo con ese nombre.
-2- Guardar las predicciones en la carpeta predicciones2
-3- Correr el codigo 3- zlgbm.stack2.202109.40sem
