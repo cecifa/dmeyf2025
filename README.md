@@ -46,11 +46,11 @@ Ganancia = $780.000 × BAJA+2 - $20.000 × (BAJA+1 + CONTINUA)
 
 ```
 dmeyf2025/
-├── competencia_1/     ← Entrega 1: trabajo propio
+├── competencia-01/     ← Entrega 1: trabajo propio
 │   └── README.md
-├── competencia_2/     ← Entrega 2: trabajo propio
+├── competencia-02/     ← Entrega 2: trabajo propio
 │   └── README.md
-├── competencia_3/     ← Entrega 3: trabajo propio
+├── competencia-03/     ← Entrega 3: trabajo propio
 │   └── README.md
 └── [resto de carpetas]  ← Material de la cátedra
 ```
