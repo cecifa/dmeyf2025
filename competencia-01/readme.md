@@ -4,7 +4,6 @@ Este sector del repositorio contiene el desarrollo, los scripts y la estrategia 
 
 ## 🛠️ Stack Tecnológico Utilizado
 Esta competencia fue desarrollada íntegramente utilizando el ecosistema de **R** ejecutado sobre Google Colab:
-* **R v3.x / v4.x** (Runtime alternativo en Colab)
 * `data.table` para la manipulación eficiente de grandes volúmenes de datos en memoria.
 * `lightgbm` como algoritmo de Gradient Boosting.
 * `mlrMBO` + `DiceKriging` para la Optimización Bayesiana de hiperparámetros.
