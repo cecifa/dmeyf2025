@@ -59,7 +59,7 @@ dmeyf2025/
 
 ## 🛠 Tecnologías utilizadas
 
-- Python · Jupyter Notebook
+- Python · R · Jupyter Notebook
 - Pandas · NumPy · Scikit-learn
 - Competencia 1 evaluada en plataforma Kaggle (UBA DM EyF)
 
