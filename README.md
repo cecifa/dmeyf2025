@@ -69,6 +69,6 @@ dmeyf2025/
 
 | Entrega | Período objetivo | Modelo | Ganancia obtenida |
 |---|---|---|---|
-| Competencia 1 | — | — | — |
-| Competencia 2 | — | — | — |
-| Competencia 3 | — | — | — |
+| Competencia 1 | 202106 | LightGBM con BO — Ensamble de 10 experimentos (5 semillas × 2 datasets) | 340.628 |
+| Competencia 2 | 202108 | zlightgbm + LightGBM con BO — Ensamble ponderado de 4 modelos | 345.600 |
+| Competencia 3 | 202109 | zlightgbm con 5 canaritos — Semillerio de 40 semillas | — |
